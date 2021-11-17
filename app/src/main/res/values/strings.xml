@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="hello_friend_lets_dialog">Hello friend, lets dialog</string>
+    <string name="dialog_with_me">Dialog with me</string>
+    <string name="button_accept">You took the right choice.</string>
+    <string name="button_decline">Why...</string>
+</resources>
